@@ -96,7 +96,7 @@ MonoBehaviour:
   Path: Test/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 638491311442316298
+  lastModified: 638491311460000000
   FileSizes:
   - Name: Desktop
     Value: 1036
@@ -163,7 +163,7 @@ MonoBehaviour:
   Path: Test/Build/Desktop/Interactable.bank
   Name: Interactable
   StudioPath: bank:/Interactable
-  lastModified: 638491281326955385
+  lastModified: 638491281340000000
   FileSizes:
   - Name: Desktop
     Value: 13856
@@ -214,7 +214,7 @@ MonoBehaviour:
   - {fileID: -4659765524578055123}
   StringsBanks:
   - {fileID: 5151378619090638251}
-  cacheTime: 638491331658542386
+  cacheTime: 638491331660000000
   cacheVersion: 131617
 --- !u!114 &459131248955967001
 MonoBehaviour:
@@ -325,7 +325,7 @@ MonoBehaviour:
   Path: Test/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 638491311442321666
+  lastModified: 638491311460000000
   FileSizes:
   - Name: Desktop
     Value: 994
@@ -425,7 +425,7 @@ MonoBehaviour:
   Path: Test/Build/Desktop/Eveningnoise.bank
   Name: Eveningnoise
   StudioPath: bank:/Eveningnoise
-  lastModified: 638491331658542386
+  lastModified: 638491331660000000
   FileSizes:
   - Name: Desktop
     Value: 8262048
