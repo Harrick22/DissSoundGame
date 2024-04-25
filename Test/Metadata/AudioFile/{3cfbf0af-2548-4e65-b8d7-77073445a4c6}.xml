@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{3cfbf0af-2548-4e65-b8d7-77073445a4c6}">
+		<property name="assetPath">
+			<value>Ambience/City/ambience_city_walla_chatter_5.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.95679166666666671</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0cce14b3-0978-485d-97ea-5bbf18317f64}</destination>
+		</relationship>
+	</object>
+</objects>
